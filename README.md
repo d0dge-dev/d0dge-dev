@@ -1,8 +1,8 @@
-<h1 align="left">Chef</h1>
+<h1 align="left">D0dge</h1>
 
 ###
 
-<p align="left">Du bist Chef</p>
+<p align="left">Yep I really liked the car brand, now I have no ideas for an other name</p>
 
 ###
 
@@ -10,15 +10,29 @@
 
 ###
 
-<p align="left">Goofy ah shit</p>
+<p align="left">
+
+- 10% Skill, 90% AI<br>
+- Master of starting new projects without finishing previous ones<br>
+- I dont like coffee<br>
+- I'm built like a stick<br>
+
+<h3>Now for real</h3>
+
+- Name: David
+- Age: 19
+- Trained IT Specialist
+- Based in Liechtenstein
+- I love to try out new things
+</p>
 
 ###
 
-<h2 align="left">Real Shit</h2>
+<h2 align="left">Working regularly with</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
@@ -37,8 +51,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" height="40" alt="hugo logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -52,6 +64,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="confluence logo"  />
 </div>
 
 ###
