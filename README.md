@@ -17,15 +17,6 @@
 - I dont like coffee<br>
 - I'm built like a stick<br>
 
-<h3>Now for real</h3>
-
-- Name: David
-- Age: 19
-- Trained IT Specialist
-- Based in Liechtenstein
-- I love to try out new things
-</p>
-
 ###
 
 <h2 align="left">Working regularly with</h2>
